@@ -93,6 +93,9 @@ gci-test/
 └── README.md
 ```
 
+## ⚙️ Setup Laravel
+download composer and install (backend)
+download node.js and install (frontend)
 
 ## ⚙️ Backend Setup (Laravel)
 Masuk ke folder backend
